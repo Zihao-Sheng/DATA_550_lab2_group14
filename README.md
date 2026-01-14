@@ -10,4 +10,8 @@ Completed Q1 and most of Q3, will finish 3.5-3.7 later
 ## LOG 2026-01-13
 
 1. Just missing two less than 90 words reasoning now.
-2. **There is one problem: this dataset is missing the studio column, so I am using the countries column for the optional questions instead**
+2. **There is one problem: this dataset is missing the studio column, so I am using the countries column for the optional questions instead** (problem solved)
+
+## LOG 2016-01-14
+
+1. **changed the dataset and corresponding anwsers.**
