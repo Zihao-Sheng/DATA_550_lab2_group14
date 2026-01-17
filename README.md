@@ -15,3 +15,7 @@ Completed Q1 and most of Q3, will finish 3.5-3.7 later
 ## LOG 2016-01-14
 
 1. **changed the dataset and corresponding anwsers.**
+
+## LOG 2016-01-17
+
+1. commiting Austin's changes to main
